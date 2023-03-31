@@ -1,0 +1,10 @@
+C:\Users\KGA\Desktop\RhythmConsole\bin\Debug\test.exe.config
+C:\Users\KGA\Desktop\RhythmConsole\bin\Debug\test.exe
+C:\Users\KGA\Desktop\RhythmConsole\bin\Debug\test.pdb
+C:\Users\KGA\Desktop\RhythmConsole\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\RhythmConsole\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\KGA\Desktop\RhythmConsole\obj\Debug\Interop.WMPLib.dll
+C:\Users\KGA\Desktop\RhythmConsole\obj\Debug\test.csproj.ResolveComReference.cache
+C:\Users\KGA\Desktop\RhythmConsole\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\RhythmConsole\obj\Debug\test.exe
+C:\Users\KGA\Desktop\RhythmConsole\obj\Debug\test.pdb
